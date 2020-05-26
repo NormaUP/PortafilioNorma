@@ -1,0 +1,19 @@
+   {
+       "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+       "nombre": "Norma Urcadiz",
+       "subtitulo": "instructor",
+       "twitter": "@NormaUP",
+       "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-4dd6b.appspot.com/o/team-1.jpg?alt=media&token=ee2e7944-1420-4c3e-b1ac-17e6e931b243"
+   } {
+       "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+       "nombre": "Normita Urcadiz",
+       "subtitulo": "Tec Informatico",
+       "twitter": "@NormaUP",
+       "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-4dd6b.appspot.com/o/team-2.jpg?alt=media&token=54ebb96c-8d55-447a-9460-bb20859ad24e"
+   } {
+       "frase": "Excepteur sint occaecat cupidatat non proident,...",
+       "nombre": "Emiliano Zarate",
+       "subtitulo": "Master en Marketing",
+       "twitter": "@emilianozu",
+       "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-4dd6b.appspot.com/o/team-3.jpg?alt=media&token=bcd67efd-9e31-417a-87a5-608d3bfe9ee9"
+   }

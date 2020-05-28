@@ -39,9 +39,9 @@ export class ProductosService {
     return this.http.get(`https://angular-html-4dd6b.firebaseio.com/productos/${id}.json`);
   }
 
-  buscarProducto (termino: string){
+  buscarProducto(termino: string){
 
-  if (this.productos.length ===0 ){
+  if (this.productos.length === 0 ){
     //carg PRODUCTOS
     this.cargarProductos().then(  () => {
     //ejecutar despues de tener los productos
